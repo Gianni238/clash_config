@@ -1,0 +1,29 @@
+payload:
+# 中国银行（中银）
+- DOMAIN-SUFFIX,boc.cn,DIRECT
+- DOMAIN-SUFFIX,bankofchina.com,DIRECT
+- DOMAIN-SUFFIX,igtb.bankofchina.com,DIRECT
+
+# 中国工商银行（工行）
+- DOMAIN-SUFFIX,icbc.com.cn,DIRECT
+- DOMAIN-SUFFIX,icbc-ltd.com,DIRECT
+
+# 中国建设银行（建行）
+- DOMAIN-SUFFIX,ccb.com,DIRECT
+- DOMAIN-SUFFIX,ccb.cn,DIRECT
+
+# 交通银行（交行）
+- DOMAIN-SUFFIX,bankcomm.com,DIRECT
+- DOMAIN-SUFFIX,95559.com.cn,DIRECT
+
+# 中国农业银行（农行）
+- DOMAIN-SUFFIX,abchina.com,DIRECT
+- DOMAIN-SUFFIX,95599.cn,DIRECT
+
+# 中国邮政储蓄银行（邮政/邮储）
+- DOMAIN-SUFFIX,psbc.com,DIRECT
+- DOMAIN-SUFFIX,pbank.psbc.com,DIRECT
+
+# 浙江农村信用社（浙江农信/丰收互联）
+- DOMAIN-SUFFIX,zj96596.com,DIRECT
+- DOMAIN-SUFFIX,qy96596.com,DIRECT
