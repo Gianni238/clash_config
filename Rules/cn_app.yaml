@@ -7,11 +7,11 @@ payload:
 - DOMAIN-SUFFIX,yhgfb-cn-static.com
 - DOMAIN-SUFFIX,bytegoofy.com
 - DOMAIN-SUFFIX,bytedance.com
-- DOMAIN-SUFFIX,byteimg.com
-- DOMAIN-SUFFIX,fqnovelpic.com
+# - DOMAIN-SUFFIX,byteimg.com
+# - DOMAIN-SUFFIX,fqnovelpic.com
 - DOMAIN-SUFFIX,zijieapi.com
 - DOMAIN-SUFFIX,fqnovel.com
 - DOMAIN-SUFFIX,ecombdapi.com
 - DOMAIN-SUFFIX,bytegecko.com
-- DOMAIN-SUFFIX,ecombdimg.com
+# - DOMAIN-SUFFIX,ecombdimg.com
 - DOMAIN-KEYWORD,fqnovel
